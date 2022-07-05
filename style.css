@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.header-area{
+    text-align: center;
+    background-image: url(images/donation7.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: #fff;
+    padding: 70px 0;
+}
+.header-area .heading{
+    font-size: 50px;
+    width: 50%;
+    margin: 0 auto;
+}
+.header-area .header-para{
+    font-size: 30px;
+    width: 40%;
+    margin: 0 auto;
+    padding-bottom:20px ;
+}
+.header-area a{
+    background: orange;
+    padding:15px 25px;
+    text-decoration: none;
+    border-radius: 10px;
+}
