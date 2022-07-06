@@ -129,9 +129,7 @@ a {
     width: 60%;
     margin: 100px auto;
     font-size: 1.3rem;
-}
-.discription{
-    text-align: center;
+
 }
 .discription h1{
     font-size: 50px;
@@ -144,7 +142,6 @@ a {
     background: #fff4d6;
     width: 100%;
     padding: 50px 0;
-
 }
 .email-input{
     padding: 12px 35px;
@@ -152,11 +149,12 @@ a {
     border: none;
     color: rgb(174, 168, 168);
 }
-.sub{
+.sub {
     padding: 12px 20px;
     background: tomato;
     border: none;
     color: #fff;
+    margin: -6px;
 }
 /* footer-area */
 footer{
