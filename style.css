@@ -7,6 +7,9 @@ body {
 .container {
     display: flex;
 }
+p{
+    font-size: 20px;
+}
 /* header-area */
 .header-area {
     text-align: center;
@@ -19,15 +22,18 @@ body {
     text-shadow: #2c231c 2px 2px 1px;
 }
 .header-area .heading {
-    font-size: 50px;
+    font-size: 30px;
     width: 50%;
     margin: 0 auto;
 }
 .header-area .header-para {
-    font-size: 30px;
+    
     width: 40%;
     margin: 0 auto;
     padding-bottom: 20px;
+}
+.header-para p{
+    font-size: 30px;
 }
 a {
     background: tomato;
