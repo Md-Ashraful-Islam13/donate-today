@@ -124,7 +124,7 @@ a {
 }
 .service-area .service-header {
     text-align: center;
-    font-size: 55px;
+    font-size: 45px;
     margin: 0;
     padding-bottom: 50px;
 }
@@ -143,12 +143,11 @@ a {
 .subscription-area{
     width: 60%;
     margin: 100px auto;
-    font-size: 1.3rem;
     text-align: center;
 
 }
 .discription h1{
-    font-size: 50px;
+    font-size: 45px;
 }
 .discription p{
     padding-bottom: 30px;
