@@ -10,13 +10,13 @@ body {
 /* header-area */
 .header-area {
     text-align: center;
-    background-image: url(images/donation7.jpg);
+    background-image: url("images/donation7.jpg");
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center center;
     background-size: cover;
-    color: #fff;
-    padding: 70px 0;
-    text-shadow: 2px 2px 1px gray;
+    color: rgb(255, 255, 255);
+    padding: 70px 0px;
+    text-shadow: #2c231c 2px 2px 1px;
 }
 .header-area .heading {
     font-size: 50px;
@@ -112,8 +112,18 @@ a {
 #third-branch{
     background: #fff4d6;
 }
-/* service-srea */
-.service-area{
+/* service-area */
+.service-area {
+    background: rgb(251 251 251);
+    padding: 50px 0;
+}
+.service-area .service-header {
+    text-align: center;
+    font-size: 55px;
+    margin: 0;
+    padding-bottom: 50px;
+}
+.service-parents{
     width: 75%;
     margin: 0 auto;
     font-size: 1.3rem;
